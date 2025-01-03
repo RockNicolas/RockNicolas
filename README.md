@@ -3,7 +3,7 @@
 ###
 
 <p align='center'>
-  Um estudante de Ciência da Computação e desenvolvedor back-end
+  Um estudante de Ciência da Computação e desenvolvedor Front-end
   <br /> <br /> <br/>
 </p>
 
