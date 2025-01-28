@@ -21,7 +21,7 @@
 ###
 
 <p align='center'>
-  💻 Minha stack<br/>
+  💻 Minhas stack<br/>
 </p>
 
 <div align="center">
