@@ -49,8 +49,6 @@
     <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" style="vertical-align: middle;">
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" alt="tailwindcss logo" style="vertical-align: middle;" />
-    <img width="12" />
 </div>
 
 
