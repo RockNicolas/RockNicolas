@@ -49,6 +49,8 @@
     <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" style="vertical-align: middle;">
     <img width="12" />
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git" style="vertical-align: middle;"/>
+    <img width="12" />
 </div>
 
 
