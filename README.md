@@ -2,9 +2,8 @@
 
 ###
 
-<p align="center" style="font-weight: bold; font-size: 100px;">
-  Um estudante de Ciência da Computação e desenvolvedor Front-end
-  <br /> <br /> <br/>
+<p align="center" style="font-weight: bold; font-size: 40px;">
+  <strong>Um estudante de Ciência da Computação e desenvolvedor Front-end</strong>
 </p>
 
 <div align="center">
@@ -20,8 +19,8 @@
 
 ###
 
-<p align='center'>
-  💻 Minhas stack<br/>
+<p align='center' style="font-size: 30px;">
+  <strong>💻 Minhas stack</strong><br/>
 </p>
 
 <div align="center">
@@ -50,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" style="vertical-align: middle;" />
     <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" style="vertical-align: middle;">
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery logo" tyle="vertical-align: middle;"/>
     <img width="12" />
 </div>
 
