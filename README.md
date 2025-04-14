@@ -2,7 +2,7 @@
 
 ###
 
-<p align='center' class='font-bold font-size:40px'>
+<p align='center' class='font-bold font-size:100px'>
   Um estudante de Ciência da Computação e desenvolvedor Front-end
   <br /> <br /> <br/>
 </p>
