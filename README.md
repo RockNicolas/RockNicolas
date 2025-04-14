@@ -1,4 +1,4 @@
-<h2 align="center">Prazer sou NiCOLAS ROCK 👨‍💻</h2>
+<h2 align="center">Prazer sou NICOLAS ROCK 👨‍💻</h2>
 
 ###
 
