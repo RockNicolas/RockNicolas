@@ -19,7 +19,7 @@
 
 ###
 
-<p align='center' style="font-size: 30px;">
+<p align='center' style="font-size: 35px;">
   <strong>💻 Minhas stack</strong><br/>
 </p>
 
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="vertical-align: middle;" />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="vertical-align: middle;" />
+    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery logo" tyle="vertical-align: middle;"/>
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue.js logo" style="vertical-align: middle;" />
     <img width="12" />
@@ -49,8 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" style="vertical-align: middle;" />
     <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" style="vertical-align: middle;">
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery logo" tyle="vertical-align: middle;"/>
     <img width="12" />
 </div>
 
