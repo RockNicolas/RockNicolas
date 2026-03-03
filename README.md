@@ -6,14 +6,6 @@
   <strong>Um estudante de Ciência da Computação e desenvolvedor Front-end</strong>
 </p>
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RockNicolas&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockNicolas&layout=compact&theme=dracula" height="150" />
-</p>
-###
-
 ###
 
 
