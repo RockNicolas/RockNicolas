@@ -12,7 +12,7 @@
 *   **Frontend:** Desenvolvimento de interfaces modernas e tipadas com **React** e **TypeScript**.
 *   **Backend:** Construção de APIs e lógica de servidor utilizando **Node.js** e **Laravel (PHP)**.
 *   **Dados:** Gestão de bases de dados relacionais em ambiente **Oracle SQL** e automações com **Python**.
-*   **Inovação:** Analista de Automação na **Construtora Monte Cristo**, transformando fluxos manuais em sistemas escaláveis.[cite: 2]
+*   **Inovação:** Analista de Automação na **Construtora Monte Cristo**, transformando fluxos manuais em sistemas escaláveis.
 
 ---
 
@@ -53,7 +53,7 @@
 ### 📚 Technologies \ Frameworks I'm studying
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="35" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="10" />
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="IA" />
 </div>
