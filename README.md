@@ -12,15 +12,13 @@
 *   **Frontend:** Desenvolvimento de interfaces modernas e tipadas com **React** e **TypeScript**.
 *   **Backend:** Construção de APIs e lógica de servidor utilizando **Node.js** e **Laravel (PHP)**.
 *   **Dados:** Gestão de bases de dados relacionais em ambiente **Oracle SQL** e automações com **Python**.
-*   **Inovação:** Atuando como Analista de Automação na **Construtora Monte Cristo**, transformando fluxos manuais em sistemas escaláveis.
+*   **Inovação:** Analista de Automação na **Construtora Monte Cristo**, transformando fluxos manuais em sistemas escaláveis.
 
 ---
 
-<p align='center' style="font-size: 20px;">
-  <strong>💻 Minha Stack</strong>
-</p>
+### 💻 Minha Stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -35,9 +33,23 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+---
+
+### 📚 Technologies \ Frameworks I'm studying
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="35" alt="Go logo" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="35" alt="Vue.js logo" />
 </div>
 
 <br/>
