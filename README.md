@@ -16,7 +16,8 @@
 
 ---
 
-### 💻 Minha Stack
+### Technologies \ Frameworks I use in my daily life
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
