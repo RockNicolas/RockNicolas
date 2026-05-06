@@ -1,61 +1,55 @@
-<h2 align="center">Prazer sou NICOLAS ROCK 👨‍💻</h2>
+<h2 align="center">Prazer, sou NICOLAS ROCK 👨‍💻</h2>
 
-###
-
-<p align="center" style="font-weight: bold; font-size: 40px;">
-  <strong>Um estudante de Ciência da Computação e desenvolvedor Front-end</strong>
-</p>
-
-###
-
-
-###
-
-<p align='center' style="font-size: 35px;">
-  <strong>💻 Minhas stack</strong><br/>
+<p align="center">
+  <strong>Graduando em Ciência da Computação e Desenvolvedor Full Stack</strong> focado na criação de soluções eficientes e automação de processos operacionais.[cite: 1, 2]
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="vertical-align: middle;" />
-    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery logo" tyle="vertical-align: middle;"/>
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue.js logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" style="vertical-align: middle;" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="vertical-align: middle;" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" style="vertical-align: middle;" />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" style="vertical-align: middle;">
-    <img width="12" />
+  
+### 🚀 O que eu faço:
+  
+- **Frontend:** Desenvolvimento de interfaces modernas e tipadas com **React** e **TypeScript**.[cite: 1, 2]
+- **Backend:** Construção de APIs e lógica de servidor utilizando **Node.js** e **Laravel (PHP)**.[cite: 1, 2]
+- **Dados:** Gestão de bases de dados relacionais em ambiente **Oracle SQL** e automações com **Python**.[cite: 1, 2]
+- **Inovação:** Atuando como Analista de Automação na **Construtora Monte Cristo**, transformando fluxos manuais em sistemas escaláveis.[cite: 1, 2]
+
 </div>
 
+###
 
+<p align='center' style="font-size: 25px;">
+  <strong>💻 Minha Stack</strong>
+</p>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicolas-rock-6015122a5/details/certifications/" target="_blank">
+  <!-- Link atualizado para a URL personalizada que você vai criar no LinkedIn -->
+  <a href="https://www.linkedin.com/in/nicolas-rock/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <img width="12" />
+  <a href="mailto:nicolasrockpessoaprofissional@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
-
-
-###
